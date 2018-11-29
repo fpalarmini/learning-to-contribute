@@ -32,6 +32,8 @@
 
 - [Elivelton Andreati Sorato](https://github.com/elisor)
 
+- [Fernando Palarmini] (https://github.com/fpalarmini)
+
 - [Gabriel Gomes](https://github.com/gabrielgomesferraz)
 
 - [Gianluca Ghisleni](https://github.com/gigias)
